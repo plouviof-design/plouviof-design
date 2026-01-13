@@ -26,23 +26,23 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 
 💬 Bonne expérience dans le développement et la gestion de bots Discord et de serveurs
 
-### 🧩 Langages
-<p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="56" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="56" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="56" />
-  <img src="https://cdn.simpleicons.org/lua/2C2D72" width="56" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="56" />
-</p>
+<div align="center">
+## 🧩 Langages
+<br/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="56"/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="56"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="56"/>
+<img src="https://cdn.simpleicons.org/lua/2C2D72" width="56"/>
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="56"/>
+</div>
 
 
 
-
-### ⚙️ Frameworks / Outils
-<p align="left">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="52" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="52" />
-</p>
-
+<div align="center">
+## ⚙️ Frameworks & Outils
+<br/>
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="56"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="56"/>
+</div>
 
 
