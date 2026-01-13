@@ -24,6 +24,8 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 
 ## ⚙️ Compétences techniques
 
+💬 Bonne expérience dans le développement et la gestion de bots Discord et de serveurs
+
 ### 🧩 Langages
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
