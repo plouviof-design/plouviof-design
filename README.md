@@ -7,7 +7,7 @@
 ![Vues](https://img.shields.io/badge/👁️%20Vues-5243-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![Favoris](https://img.shields.io/badge/⭐%20Favoris-128-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![Populaire](https://img.shields.io/badge/🔥%20Populaire-256-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![Dernière mise à jour](https://img.shields.io/badge/📅%20Dernière%20MAJ-13-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![Dernière mise à jour](https://img.shields.io/badge/📅%20Dernière%20MAJ-13/01/2026-0d1117?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
