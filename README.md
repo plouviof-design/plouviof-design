@@ -27,15 +27,21 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 💬 Bonne expérience dans le développement et la gestion de bots Discord et de serveurs
 
 ### 🧩 Langages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
-![GLua](https://img.shields.io/badge/GLua-black?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)
-![KeyAuth](https://img.shields.io/badge/KeyAuth-black?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="48" />
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" width="48" />
+  <img src="https://cdn.simpleicons.org/python/ffffff" width="48" />
+  <img src="https://cdn.simpleicons.org/lua/ffffff" width="48" />
+  <img src="https://cdn.simpleicons.org/cplusplus/ffffff" width="48" />
+</p>
+
 
 
 ### ⚙️ Frameworks / Outils
-[![KeyAuth](https://img.shields.io/badge/KeyAuth-black?style=for-the-badge)](https://keyauth.com/)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/discord/ffffff" width="48" />
+  <img src="https://cdn.simpleicons.org/node.js/ffffff" width="48" />
+  <img src="https://cdn.simpleicons.org/keycdn/ffffff" width="48" />
+</p>
+
 
