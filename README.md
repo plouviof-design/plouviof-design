@@ -49,8 +49,6 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 
 ### ⚙️ Frameworks & Outils
 
-<br/>
-
 <img src="https://cdn.simpleicons.org/discord/5865F2" width="54"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="54"/>
