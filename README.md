@@ -4,8 +4,7 @@
 🚀 J’aime créer des projets utiles, propres et performants  
 🎯 Toujours en train d’apprendre et d’optimiser  
 
-![Vues](https://img.shields.io/badge/Vues-5243-0d1117?style=for-the-badge)
-
+![Vues](https://img.shields.io/badge/👁️%20Vues-5243-0d1117?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
