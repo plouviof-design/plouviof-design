@@ -31,5 +31,4 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 ![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
 ![GLua](https://img.shields.io/badge/GLua-black?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)
-
 ![KeyAuth](https://img.shields.io/badge/KeyAuth-black?style=for-the-badge)
