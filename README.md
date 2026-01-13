@@ -4,7 +4,8 @@
 🚀 J’aime créer des projets utiles, propres et performants  
 🎯 Toujours en train d’apprendre et d’optimiser  
 
-![Profile Views](https://komarev.com/ghpvc/?username=P4lv&label=Vues&color=blue&style=for-the-badge)
+![Vues](https://img.shields.io/badge/Vues-5243-0d1117?style=for-the-badge)
+
 
 ---
 
