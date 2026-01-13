@@ -27,7 +27,7 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 💬 Bonne expérience dans le développement et la gestion de bots Discord et de serveurs
 
 <div align="center">
-## 🧩 Langages
+# 🧩 Langages
 <br/>
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="56"/>
 <img src="https://cdn.simpleicons.org/typescript/3178C6" width="56"/>
@@ -39,7 +39,7 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 
 
 <div align="center">
-## ⚙️ Frameworks & Outils
+# ⚙️ Frameworks & Outils
 <br/>
 <img src="https://cdn.simpleicons.org/discord/5865F2" width="56"/>
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="56"/>
