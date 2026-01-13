@@ -26,11 +26,10 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 
 ## ⚙️ Compétences techniques
 
-<br/>
 
 💬 Bonne expérience dans le développement et la gestion de **bots Discord** et de **serveurs**
 
-<br/><br/>
+
 
 ### 🧩 Langages
 
