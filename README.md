@@ -2,7 +2,9 @@
 
 💡 Développeur passionné, curieux et polyvalent  
 🚀 J’aime créer des projets utiles, propres et performants  
-🎯 Toujours en train d’apprendre et d’optimiser
+🎯 Toujours en train d’apprendre et d’optimiser  
+
+![Profile Views](https://komarev.com/ghpvc/?username=P4lv&label=Vues&color=blue&style=for-the-badge)
 
 ---
 
@@ -25,8 +27,3 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
 ![GLua](https://img.shields.io/badge/GLua-black?style=for-the-badge)
-
----
-
-### 🧱 Frameworks & Environnements
-![React](https://img.shields.io/badge/React)
