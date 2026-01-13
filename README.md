@@ -5,6 +5,8 @@
 🎯 Toujours en train d’apprendre et d’optimiser  
 
 ![Vues](https://img.shields.io/badge/👁️%20Vues-5243-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![Favoris](https://img.shields.io/badge/⭐%20Favoris-128-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![Populaire](https://img.shields.io/badge/🔥%20Populaire-256-0d1117?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
