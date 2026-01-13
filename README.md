@@ -35,4 +35,5 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 
 
 ### ⚙️ Frameworks / Outils
-![KeyAuth](https://img.shields.io/badge/KeyAuth-black?style=for-the-badge)
+[![KeyAuth](https://img.shields.io/badge/KeyAuth-black?style=for-the-badge)](https://keyauth.com/)
+
